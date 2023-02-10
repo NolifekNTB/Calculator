@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        //Digits
+        //digits
         binding.zero.setOnClickListener{
             sum += 0
             binding.wynik.text = sum.toString()
