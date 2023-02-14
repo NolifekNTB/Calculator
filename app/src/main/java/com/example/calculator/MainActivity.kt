@@ -176,3 +176,10 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+/*TODO
+1. Fractions (with a dot) 2.5/1.2
+2. Auto rotate (AC) with symbol
+3. undo number
+4. percent
+ */
